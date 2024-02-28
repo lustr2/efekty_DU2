@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+label {
+  display: block;
+  margin: 10px;
+  border: 10px;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.label_text {
+  background-color: white;
+  font-style: italic;
+}
+
+.vyber_zony {
+  margin-left: 10px;
+}
